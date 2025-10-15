@@ -26,7 +26,6 @@
 🎓 Curso EPAM QA Automation (en progreso) <br>
 📍 Rio Cuarto, Argentina | Abierto a trabajo remoto <br>
 
-🔗 <a href="http://www.linkedin.com/in/eluchini">LinkedIn</a>
 
 <!---| Portfolio: [link] | --->
 
